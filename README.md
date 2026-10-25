@@ -2,7 +2,7 @@
 
 ### Python Developer | Full Stack Development | AI Projects
 
-I'm a Computer Science and Engineering student passionate about building practical software applications using Python, web technologies, and AI.
+I'm a highly motivated person passionate about building practical software applications using Python, web technologies, and AI.
 
 - 🔭 Working on full-stack development and AI-based projects
 - 🌱 Learning Python, backend development, databases, and problem-solving
